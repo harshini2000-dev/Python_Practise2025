@@ -1,0 +1,2 @@
+shift + alt + down = duplicate row
+ctrl + / = comment the line
